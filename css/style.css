@@ -1,0 +1,59 @@
+body {
+  color: #1a1a1a;
+  font: normal 1.123rem/1.5;
+}
+image {
+  width: 100%;
+}
+
+figcaption,
+.article-category,
+.sub-title,
+.author,
+time {
+  font-family: "Open Sans", sans-serif;
+}
+
+.article-category {
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  border-bottom: 2px solid #ff3530;
+  display: inline;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: ;
+  margin: 1rem 0;
+}
+.sub-title {
+  font-weight: bold;
+}
+
+figcaption {
+  color: #757575;
+  font-size: 0.85;
+  text-align: center;
+  font-style: italic;
+}
+
+a:link {
+  color: #1a1a1a;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ff3530;
+  text-decoration: none;
+}
+.author,
+time {
+  font-size: 0.85rem;
+}
+
+.author {
+  margin-bottom: 0;
+}
+figure {
+  margin: 1.25em 0;
+}
